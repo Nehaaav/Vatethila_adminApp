@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "1026168459681",
+    "project_id": "foodapp-972b1",
+    "storage_bucket": "foodapp-972b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026168459681:android:42117e14c7d95539f93be0",
+        "android_client_info": {
+          "package_name": "com.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026168459681-pah7lk67qgkjbqosk5gtvtvo18avi7on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxF6LHNNyA4IGsC5wpbrLhqDnsJKU_-xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026168459681-pah7lk67qgkjbqosk5gtvtvo18avi7on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026168459681:android:faa325d362641ce1f93be0",
+        "android_client_info": {
+          "package_name": "com.vatethila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026168459681-pah7lk67qgkjbqosk5gtvtvo18avi7on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxF6LHNNyA4IGsC5wpbrLhqDnsJKU_-xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026168459681-pah7lk67qgkjbqosk5gtvtvo18avi7on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026168459681:android:3f97fb66037aafb9f93be0",
+        "android_client_info": {
+          "package_name": "com.vatethila_adminapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026168459681-pah7lk67qgkjbqosk5gtvtvo18avi7on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxF6LHNNyA4IGsC5wpbrLhqDnsJKU_-xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026168459681-pah7lk67qgkjbqosk5gtvtvo18avi7on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
